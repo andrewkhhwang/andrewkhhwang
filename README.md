@@ -4,7 +4,7 @@
 <p align="center">When I'm not coding, you can find me dancing (Hip-Hop, Popping, House) 🕺, watching Formula 1 🏎️, or playing video games 🎮.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhwang/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/andrew_hwang_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://venmo.com/andrew_hwang_"><img src="https://img.shields.io/badge/-Venmo-008CFF?style=flat&logo=venmo&logoColor=white" height=35></a> 
+  <a href="https://www.linkedin.com/in/akhwang/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/andrew_hwang_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a> 
+  <a href="https://venmo.com/u/andrew_hwang_"><img src="https://img.shields.io/badge/-Venmo-008CFF?style=flat&logo=venmo&logoColor=white"></a> 
 </p>
